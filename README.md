@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 欢迎来到我的Git主页 👋
 
 <!--
 **wangzheie/wangzheie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
