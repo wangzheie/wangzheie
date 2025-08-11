@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ### 📃 Competitive Experience
 <!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
+- 2024 0722 - [宁夏银川」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
 - Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
 - Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
 - Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
