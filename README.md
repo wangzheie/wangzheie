@@ -83,11 +83,12 @@ Here are some ideas to get you started:
 
 ### 📃 Competitive Experience
 <!-- feed start -->
-- 2024 0722 - [宁夏银川」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
+- 2024  July-    [宁夏银川，全国大学生嵌入式设计大赛初赛～西部一等奖](http://www.socchina.net/details?id=bfd716e65cff47ebadf80964b8dffe6d&type=1&intime=2024-07-15%2016:35:20.0)
+- 2024  August - [安徽合肥，全国机器人及人工智能大赛国赛～国家级一等奖](https://blog.guoqi.dev/posts/yuanze/)
+- 2024  August - [江苏南京，全国大学生嵌入式设计大赛国赛～国家级三等奖](https://blog.guoqi.dev/posts/2023/)
+- 2024  August - [广西桂林，全国大学生电子设计大赛国赛（瑞萨杯）～国家级三等奖](https://blog.guoqi.dev/posts/xizang/)
+- 2024  October -[四川巴中，全国航空航模锦标赛CADC对地侦察与打击～国家级三等奖](https://blog.guoqi.dev/posts/zhuhai/)
+- 2025  August - [辽宁大连，全国大学生工程训练大赛～国家级一等奖](https://blog.guoqi.dev/posts/zhuhai/)
 <!-- feed end -->
 <!-- feed start -->
 📅**I'm an framer** 
