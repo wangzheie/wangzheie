@@ -83,6 +83,13 @@ Here are some ideas to get you started:
 
 </td></tr>
 
+#### 3. 创作与影响力 🐾
+
+CSDN「时雨」粉丝 **1.5 万**，公众号「少日拏云」**400** 粉，技术社群 **300** 人；累计技术长文 **300+**，总阅读 **80 万+**。坚持方法论与可落地范式。
+
+作品集直达：
+
+个人技术博客（CSDN）：「时雨 h」；共绩官方博客（我主笔）：[gongjiyun.com/blog](https://www.gongjiyun.com/blog/)；共绩技术文档：[gongjiyun.com/docs](https://www.gongjiyun.com/docs/server/introduction/wotvwcy5hiftsjkapfocsbzvnvn/)。
 
 ### 📃 Competitive Experience
 
