@@ -92,20 +92,13 @@ Here are some ideas to get you started:
 - Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
 - Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
 <!-- feed end -->
-
-
-
-
-
-
-
-<!--START_SECTION:waka-->
+<!-- feed start -->
 📅**I'm an framer** 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 CSDN「做黑夜里的那道光」浏览量 **10万**，小红书「做黑夜里的那道光」**300** 粉，技术社群 **300** 人；累计技术长文 **30+**，总阅读 **80 万+**。
 作品集直达：
 个人技术博客（CSDN）：(https://blog.csdn.net/qq_60299751?type=blog)；
-
+<!-- feed end -->
 📅 **I'm Most Productive on Friday** 
 
 ```text
