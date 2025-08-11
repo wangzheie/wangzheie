@@ -82,7 +82,6 @@ Here are some ideas to get you started:
   - 工作内容：参与激光除草机器人，轮腿式机器人开发
 
 ### 📃 Competitive Experience
-<img align="right" width="88" src="https://img-baofun.zhhainiao.com/pcwallpaper_ugc/live/2cd0e8ee8b120d5b579878915ac99222.mp4.jpg" />
 <!-- feed start -->
 - Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
 - Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
