@@ -65,12 +65,12 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
+- [杭州海康威视技术有限公司](https://www.hikvision.com/cn/) &emsp; 📌 2024-11-20 —— 2025-02-27
 
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
+  - 工作岗位：嵌入式工程师
+  - 工作内容：伺服电机
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://www.bing.com/images/search?view=detailV2&ccid=tmBJGMat&id=91CF80BCE0F0D3BC02B8FAD193072B7733299121&thid=OIP.tmBJGMatynLrb10rc3jpjwHaDe&mediaurl=https%3A%2F%2Fpic.nximg.cn%2Ffile%2F20220118%2F31394912_205700816101_2.jpg&exph=480&expw=1024&q=%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86logo&simid=608038070283952873&form=IRPRST&ck=7DF6AE153C9315617320C48A63F30949&selectedindex=1&itb=0&cw=2297&ch=1183&ajaxhist=0&ajaxserp=0&vt=0&sim=11" />
 
 - [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
 
