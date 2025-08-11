@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 
 #  🙋 Hello
 
-<table>
-  
-
+<table>  
 
 ### 🤺 About Me
 
@@ -58,7 +56,7 @@ Here are some ideas to get you started:
 
 </td></tr>
 
-<tr><td>
+
 
 ### 🏢 Work Experience
 
