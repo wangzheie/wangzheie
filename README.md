@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 
 </td></tr>
 
-<tr><td>
 
 ### 📃 Competitive Experience
 
@@ -99,12 +98,10 @@ Here are some ideas to get you started:
 
 </td></tr>
 
-<tr><td>
 
 
 </td></tr>
 
-<tr><td>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
