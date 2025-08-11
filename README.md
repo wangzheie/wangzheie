@@ -28,7 +28,6 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/@wangzhenjie/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@zhenjiewang-i3t"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://space.bilibili.com/522616227?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://www.xiaohongshu.com/user/profile/6002fe8c000000000101d781"><img src="https://picasso-static.xiaohongshu.com/fe-platform/209095b1bd0330f15e7cdf22e54ff8377971b917.png" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=wangzheie&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->   
@@ -71,7 +70,7 @@ Here are some ideas to get you started:
   - 工作岗位：嵌入式工程师
   - 工作内容：伺服电机
 
-<img align="right" width="88" src="https://www.bing.com/images/search?view=detailV2&ccid=tmBJGMat&id=91CF80BCE0F0D3BC02B8FAD193072B7733299121&thid=OIP.tmBJGMatynLrb10rc3jpjwHaDe&mediaurl=https%3A%2F%2Fpic.nximg.cn%2Ffile%2F20220118%2F31394912_205700816101_2.jpg&exph=480&expw=1024&q=%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86logo&simid=608038070283952873&form=IRPRST&ck=7DF6AE153C9315617320C48A63F30949&selectedindex=1&itb=0&cw=2297&ch=1183&ajaxhist=0&ajaxserp=0&vt=0&sim=11" />
+<img align="right" width="88" src="https://static5.qiang100.com/data/upload/20191213/5df32613e9062.png" />
 
 - [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
 
