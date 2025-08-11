@@ -93,47 +93,12 @@ Here are some ideas to get you started:
 📅**I'm an framer** 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 ```text
-CSDN「做黑夜里的那道光」浏览量 **10万**，小红书「做黑夜里的那道光」**300** 粉，技术社群 **300** 人；累计技术长文 **30+**，总阅读 **80 万+**。
+CSDN「做黑夜里的那道光」浏览量 10万，小红书「做黑夜里的那道光」300 粉，技术社群 300 人；累计技术长文 30+，总阅读 80 万+。
 作品集直达：
-个人技术博客（CSDN）：(https://blog.csdn.net/qq_60299751?type=blog)；
 ```
+个人技术博客（CSDN）：(https://blog.csdn.net/qq_60299751?type=blog)；
 <!-- feed end -->
 📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Tuesday                  243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Wednesday                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Friday                   622 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Sunday                   418 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               12 hrs 7 mins       ███████████████░░░░░░░░░░   61.19 % 
-JSON                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-JavaScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-
-🔥 Editors: 
-Cursor                   18 hrs 58 mins      ████████████████████████░   95.83 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-
-💻 Operating System: 
-Mac                      19 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/08/2025 00:51:26 UTC
-<!--END_SECTION:waka-->
 
 </td></tr>
 </table>
