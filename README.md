@@ -81,16 +81,6 @@ Here are some ideas to get you started:
   - 工作岗位：机器人全栈工程师
   - 工作内容：参与激光除草机器人，轮腿式机器人开发
 
-</td></tr>
-
-#### 3. 创作与影响力 🐾
-
-CSDN「时雨」粉丝 **1.5 万**，公众号「少日拏云」**400** 粉，技术社群 **300** 人；累计技术长文 **300+**，总阅读 **80 万+**。坚持方法论与可落地范式。
-
-作品集直达：
-
-个人技术博客（CSDN）：「时雨 h」；共绩官方博客（我主笔）：[gongjiyun.com/blog](https://www.gongjiyun.com/blog/)；共绩技术文档：[gongjiyun.com/docs](https://www.gongjiyun.com/docs/server/introduction/wotvwcy5hiftsjkapfocsbzvnvn/)。
-
 ### 📃 Competitive Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
@@ -103,11 +93,10 @@ CSDN「时雨」粉丝 **1.5 万**，公众号「少日拏云」**400** 粉，�
 - Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
 <!-- feed end -->
 
-</td></tr>
 
 
 
-</td></tr>
+
 
 
 <!--START_SECTION:waka-->
