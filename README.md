@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="file:///C:/Users/wzj_g/Desktop/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-06_132928_666.jpg" />
+<img align="right" width="88" src="https://th.bing.com/th/id/R.8da91130f80ff6e4a322e6032ed55e14?rik=oUp77AwHJLrhxA&riu=http%3a%2f%2fpic.imeitou.com%2fuploads%2fallimg%2f240327%2f10-24032G60315.jpg&ehk=SFKJJ6SHEvG0ZDz8nswrimvaX2CJlasFFX8r1sGOlFA%3d&risl=&pid=ImgRaw&r=0" />
 
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
