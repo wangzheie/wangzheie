@@ -52,9 +52,8 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.8da91130f80ff6e4a322e6032ed55e14?rik=oUp77AwHJLrhxA&riu=http%3a%2f%2fpic.imeitou.com%2fuploads%2fallimg%2f240327%2f10-24032G60315.jpg&ehk=SFKJJ6SHEvG0ZDz8nswrimvaX2CJlasFFX8r1sGOlFA%3d&risl=&pid=ImgRaw&r=0" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;hello，我是jie>0<来自西安理工大学。热爱自动驾驶、嵌入式、无人机航模、旅行。</p>
+<p>&emsp;&emsp;热爱嵌入式和自动驾驶行业，希望能成为一名优秀的自动驾驶or嵌入式工程师。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
@@ -81,8 +80,8 @@ Here are some ideas to get you started:
 
 - [上海韬腾科技有限公司](https://www.nio.cn/) &emsp; 📌 2025-07-30 —— 至今
 
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作岗位：机器人全栈工程师
+  - 工作内容：参与激光除草机器人，轮腿式机器人开发
 
 </td></tr>
 
