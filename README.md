@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ### 📃 Competitive Experience
 <!-- feed start -->
-- 2024  July-    [宁夏银川，全国大学生嵌入式设计大赛初赛～西部一等奖](http://www.socchina.net/details?id=bfd716e65cff47ebadf80964b8dffe6d&type=1&intime=2024-07-15%2016:35:20.0)
+- 2024  July   - [宁夏银川，全国大学生嵌入式设计大赛初赛～西部一等奖](http://www.socchina.net/details?id=bfd716e65cff47ebadf80964b8dffe6d&type=1&intime=2024-07-15%2016:35:20.0)
 - 2024  August - [安徽合肥，全国机器人及人工智能大赛国赛～国家级一等奖](https://blog.guoqi.dev/posts/yuanze/)
 - 2024  August - [江苏南京，全国大学生嵌入式设计大赛国赛～国家级三等奖](https://blog.guoqi.dev/posts/2023/)
 - 2024  August - [广西桂林，全国大学生电子设计大赛国赛（瑞萨杯）～国家级三等奖](https://blog.guoqi.dev/posts/xizang/)
