@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="file:///C:/Users/wzj_g/Desktop/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-06_132928_666.jpg" />
 
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -72,14 +72,14 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.60ab7683045a6268b660b6a5a0a68665?rik=WZKpDNrJDhycWQ&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fb%2f2021%2f04-01%2f98823%2fbeijing_pic_98823_1200_600.jpg&ehk=LjgDX7earOYUE2FbY3rXutxlFXupvf16b%2fYYDI1dZow%3d&risl=&pid=ImgRaw&r=0" />
 
-- [北京小米汽车有限公司](https://www.tuhuimap.com/) &emsp; 📌 2025-02-28 —— 2025-07-28
+- [北京小米汽车有限公司](https://www.mi.com/about/index.html) &emsp; 📌 2025-02-28 —— 2025-07-28
 
   - 工作岗位：自动驾驶工程师
   - 工作内容：自动驾驶仿真HIL系统，Farm系统
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+<img align="right" width="88" src="file:///C:/Users/wzj_g/Desktop/E203BE7444F5E0D38DA559CBFE294E95.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [上海韬腾科技有限公司](https://www.nio.cn/) &emsp; 📌 2025-07-30 —— 至今
 
   - 工作岗位：Web 前端开发实习生
   - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
