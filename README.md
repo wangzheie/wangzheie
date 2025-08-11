@@ -82,9 +82,6 @@ Here are some ideas to get you started:
   - 工作内容：参与激光除草机器人，轮腿式机器人开发
 
 ### 📃 Competitive Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
 <!-- feed start -->
 - Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
 - Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
@@ -94,6 +91,7 @@ Here are some ideas to get you started:
 <!-- feed end -->
 <!-- feed start -->
 📅**I'm an framer** 
+```text
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 CSDN「做黑夜里的那道光」浏览量 **10万**，小红书「做黑夜里的那道光」**300** 粉，技术社群 **300** 人；累计技术长文 **30+**，总阅读 **80 万+**。
 作品集直达：
