@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  alt=""/>
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wangzheie&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  alt=""/>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=wangzheie"  alt=""/>
   <br />
   <br />
   <br />
