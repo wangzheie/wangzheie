@@ -100,7 +100,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-**I'm an framer** 
+📅**I'm an framer** 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 CSDN「做黑夜里的那道光」浏览量 **10万**，小红书「做黑夜里的那道光」**300** 粉，技术社群 **300** 人；累计技术长文 **30+**，总阅读 **80 万+**。
 作品集直达：
 个人技术博客（CSDN）：(https://blog.csdn.net/qq_60299751?type=blog)；
