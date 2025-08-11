@@ -100,14 +100,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an framer** 
+CSDN「做黑夜里的那道光」浏览量 **10万**，小红书「做黑夜里的那道光」**300** 粉，技术社群 **300** 人；累计技术长文 **30+**，总阅读 **80 万+**。
+作品集直达：
+个人技术博客（CSDN）：(https://blog.csdn.net/qq_60299751?type=blog)；
 
-```text
-🌞 Morning                676 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-🌆 Daytime                798 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
-🌃 Evening                583 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌙 Night                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-```
 📅 **I'm Most Productive on Friday** 
 
 ```text
