@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p>&emsp;&emsp;hello，我是jie>0<来自西安理工大学。热爱自动驾驶、嵌入式、无人机航模、旅行。</p>
 <p>&emsp;&emsp;热爱嵌入式和自动驾驶行业，希望能成为一名优秀的自动驾驶or嵌入式工程师。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;如果你对我感兴趣，请联系微信wzj1345611597,下面展示一些我的个人经历</p>
 
 </td></tr>
 
