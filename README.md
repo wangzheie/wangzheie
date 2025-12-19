@@ -81,6 +81,13 @@ Here are some ideas to get you started:
   - 工作岗位：机器人全栈工程师
   - 工作内容：参与激光除草机器人，轮腿式机器人开发
 
+<img align="right" width="88" src="https://th.bing.com/th/id/R.6d4ab4d3289afd1124aaa3aa04f25dbd?rik=2AqbTJoCLOSO3g&riu=http%3a%2f%2fwww.qbitai.com%2fwp-content%2fuploads%2f2020%2f04%2f%e5%9c%b0%e5%b9%b3%e7%ba%bf.png&ehk=t75PDqj%2fYZa31SV%2bwSJUsf4rO4pl7qIdcboqToi3Luc%3d&risl=&pid=ImgRaw&r=0" />
+
+- [北京地平线机器人科技公司](https://www.nio.cn/) &emsp; 📌 2025-07-30 —— 至今
+
+  - 工作岗位：机器人全栈工程师
+  - 工作内容：参与激光除草机器人，轮腿式机器人开发
+
 ### 📃 Competitive Experience
 <!-- feed start -->
 - 2024  July   - [宁夏银川，全国大学生嵌入式设计大赛初赛～西部一等奖](http://www.socchina.net/details?id=bfd716e65cff47ebadf80964b8dffe6d&type=1&intime=2024-07-15%2016:35:20.0)
