@@ -72,14 +72,14 @@ Here are some ideas to get you started:
 - [北京小米汽车有限公司](https://www.mi.com/about/index.html) &emsp; 📌 2025-02-28 —— 2025-07-28
 
   - 工作岗位：自动驾驶工程师
-  - 工作内容：自动驾驶仿真HIL系统，Farm系统
+  - 工作内容：自动驾驶仿真HIL系统，Farm系统，闭环数据回灌
 
 <img align="right" width="88" src="https://img.bosszhipin.com/beijin/upload/com/workfeel/20250521/7bf6f160950405e9fa234fd1e22cc91085b9dfd8b4cffa70b5222964298b36e537dad4313f491462.png.webp" />
 
-- [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-07-30 —— 2025-10-29
+- [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-11-30 —— 2026-6-4
 
-  - 工作岗位：机器人全栈工程师
-  - 工作内容：参与激光除草机器人，轮腿式机器人开发
+  - 工作岗位：机器人ROS开发工程师
+  - 工作内容：轮式人型运输机器人开发
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.6d4ab4d3289afd1124aaa3aa04f25dbd?rik=2AqbTJoCLOSO3g&riu=http%3a%2f%2fwww.qbitai.com%2fwp-content%2fuploads%2f2020%2f04%2f%e5%9c%b0%e5%b9%b3%e7%ba%bf.png&ehk=t75PDqj%2fYZa31SV%2bwSJUsf4rO4pl7qIdcboqToi3Luc%3d&risl=&pid=ImgRaw&r=0" />
 
