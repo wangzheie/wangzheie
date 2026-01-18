@@ -62,14 +62,14 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="https://static5.qiang100.com/data/upload/20191213/5df32613e9062.png" />
 
-- [杭州海康威视技术有限公司](https://www.hikvision.com/cn/) &emsp; 📌 2024-11-20 —— 2025-02-27
+- [杭州海康威视技术有限公司](https://www.hikvision.com/cn/) &emsp; 📌 2024-11-10 —— 2025-02-27
 
   - 工作岗位：嵌入式工程师
   - 工作内容：伺服电机
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.60ab7683045a6268b660b6a5a0a68665?rik=WZKpDNrJDhycWQ&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fb%2f2021%2f04-01%2f98823%2fbeijing_pic_98823_1200_600.jpg&ehk=LjgDX7earOYUE2FbY3rXutxlFXupvf16b%2fYYDI1dZow%3d&risl=&pid=ImgRaw&r=0" />
 
-- [北京小米汽车有限公司](https://www.mi.com/about/index.html) &emsp; 📌 2025-02-28 —— 2025-07-28
+- [北京小米汽车有限公司](https://www.mi.com/about/index.html) &emsp; 📌 2025-02-28 —— 2025-08-28
 
   - 工作岗位：自动驾驶工程师
   - 工作内容：自动驾驶仿真HIL系统，Farm系统，闭环数据回灌
