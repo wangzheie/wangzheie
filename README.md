@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   - 工作岗位：自动驾驶工程师
   - 工作内容：自动驾驶仿真HIL系统，Farm系统，闭环数据回灌
 
-<img align="right" width="88" src="https://img.bosszhipin.com/beijin/upload/com/workfeel/20250521/7bf6f160950405e9fa234fd1e22cc91085b9dfd8b4cffa70b5222964298b36e537dad4313f491462.png.webp" />
+<img align="right" width="88" src="./images/蓝虫具身.jpg" />
 
 - [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-11-30 —— 2026-6-4
 
