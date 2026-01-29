@@ -55,7 +55,11 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;如果你对我感兴趣，请联系微信wzj1345611597,下面展示一些我的个人经历</p>
 
 </td></tr>
-
+### 🛠 Skill Stack
+- **Languages/Frameworks**: C++, Python, ROS 2 (Humble/Foxy)
+- **Simulations**: Carla (Expert), Xiaomi MiSim (Internal), Gazebo
+- **Real-Time OS**: Linux Kernel Tuning, PREEMPT_RT Patching
+- **Hardware**: X86 Industrial PC, Livox MID360, CAN-Bus/Ethernet
 
 
 ### 🏢 Work Experience
