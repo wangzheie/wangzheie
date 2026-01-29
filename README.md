@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="./images/蓝虫具身.jpg" />
 
-- [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-11-30 —— 2026-6-4
+- [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-11-30 —— 2026-5-15
 
   - 工作岗位：ROS机器人算法开发工程师
-  - 工作内容：轮式人型运输机器人开发，雷达SLAM导航系统
+  - 工作内容：轮式人型运输机器人开发，雷达SLAM导航系统，MID360激光雷达，NAV2机器人导航
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.6d4ab4d3289afd1124aaa3aa04f25dbd?rik=2AqbTJoCLOSO3g&riu=http%3a%2f%2fwww.qbitai.com%2fwp-content%2fuploads%2f2020%2f04%2f%e5%9c%b0%e5%b9%b3%e7%ba%bf.png&ehk=t75PDqj%2fYZa31SV%2bwSJUsf4rO4pl7qIdcboqToi3Luc%3d&risl=&pid=ImgRaw&r=0" />
 
