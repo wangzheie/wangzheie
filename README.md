@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="./images/蓝虫具身.jpg" />
 
-- [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-11-30 —— 2026-5-15
+- [西安蓝虫具身机器人](https://www.nio.cn/) &emsp; 📌 2025-11-30 —— 2026-3-15
 
   - 工作岗位：ROS机器人算法开发工程师
   - 工作内容：轮式人型运输机器人开发，雷达SLAM导航系统，MID360激光雷达，NAV2机器人导航
