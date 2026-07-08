@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="https://th.bing.com/th/id/R.6d4ab4d3289afd1124aaa3aa04f25dbd?rik=2AqbTJoCLOSO3g&riu=http%3a%2f%2fwww.qbitai.com%2fwp-content%2fuploads%2f2020%2f04%2f%e5%9c%b0%e5%b9%b3%e7%ba%bf.png&ehk=t75PDqj%2fYZa31SV%2bwSJUsf4rO4pl7qIdcboqToi3Luc%3d&risl=&pid=ImgRaw&r=0" />
 
-- [北京地平线机器人科技公司](https://www.horizon.auto/about) &emsp; 📌 2026-07-31 —— 之后
+- [北京地平线机器人科技公司](https://www.horizon.auto/about) &emsp; 📌 2026-07-14 —— 之后
 
   - 工作岗位：嵌入式工程师
   - 工作内容：（待入职）
